@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 /* Layouts */
 import PublicLayout from "./components/PublicLayout";
 import PrivateLayout from "./components/PrivateLayout";
-import ProtectedRoute from "./components/protectedRoute";
+import ProtectedRoute from "./components/ProtectedRoute";
 
 /* Pages */
 import Features from "./pages/Features";
